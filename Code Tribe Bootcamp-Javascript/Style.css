@@ -1,0 +1,50 @@
+}
+    .Skillslist {
+      margin: 8px;
+    }
+  }
+  .main container {
+  margin: 8px
+  }
+   .text-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .textimage1 {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+    float: left;
+  }
+  
+  .textwrap1 {
+    text-align: circle;
+
+  }
+
+  .textimage2 {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+    float: left;
+  }
+
+  .textimage3 {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+    float: left;
+  }
+  
+  
+}
+
+
+
+
+  
