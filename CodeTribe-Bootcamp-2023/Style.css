@@ -1,0 +1,95 @@
+.Skillslist {
+  margin: 8px;
+}
+.main-container {
+  margin: 8px;
+}
+
+.text-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.textimage1 {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin-right: 20px;
+  float: left;
+}
+.textwrap1 {
+  text-align: center;
+  border: 1px dashed red;
+}
+
+.textimage2 {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin-right: 20px;
+  float: left;
+}
+
+.textimage3 {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin-right: 20px;
+  float: left;
+}
+.textwrap3 {
+  text-align: center;
+  border: 1px dashed red;
+}
+.card {
+  width: 80%;
+  margin: auto;
+  background-color: rgb(251, 255, 37);
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -10px;
+}
+
+.col {
+  flex: 1;
+  padding: 10px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input[type="text"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+input[type="submit"] {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+  background-color: #0062cc;
+}
+
